@@ -1,2 +1,2 @@
-# sklep_pami-tki
+# sklep_pamiatki
 Sklep z rękodziełami
